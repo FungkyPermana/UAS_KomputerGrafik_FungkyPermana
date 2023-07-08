@@ -19,11 +19,11 @@ Flask=2.3.2
 
 Buka website 
 kemudian upload gambar yang diinginkan
-![image](https://github.com/FungkyPermana/UAS_KompGrafik/blob/main/gambar/pink%201.JPG) 
+![image](https://github.com/FungkyPermana/UAS_KomputerGrafik_FungkyPermana/blob/main/gambar/pink%201.JPG) 
 
 
 Setelah gambar diupload, akan langsung ditampilkan dan muncul form Size dan Position crop. Isi sesuai keinginan, dan klik "Crop"
-![image](https://github.com/FungkyPermana/UAS_KompGrafik/blob/main/gambar/pink%202.JPG)
+![image](https://github.com/FungkyPermana/UAS_KomputerGrafik_FungkyPermana/blob/main/gambar/pink%202.JPG)
 
 
 Jika sudah, akan ditampilkan hasil crop gambarnya.
